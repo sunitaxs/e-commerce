@@ -40,5 +40,4 @@ function checkout() {
   renderCart();
 }
 
-// Render cart on page load
-document.addEventListener('DOMContentLoaded', renderCart);
+
